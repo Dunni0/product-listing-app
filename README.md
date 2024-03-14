@@ -1,6 +1,6 @@
-# Product Catalog App
+# Product Listing App
 
-Welcome to the Product Catalog App! This is a React application that allows users to browse through a list of products fetched from a fake store API. Users can navigate through different pages of products, view product details, and search for specific products.
+Welcome to the Product Listing App! This is a React application that allows users to browse through a list of products fetched from a fake store API. Users can navigate through different pages of products, view product details, and search for specific products.
 
 ## Features
 
@@ -13,7 +13,7 @@ Welcome to the Product Catalog App! This is a React application that allows user
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/Dunni0/product-catalog-app.git
+git clone https://github.com/Dunni0/product-listing-app.git
 
 
 2. Navigate to the project directory:
